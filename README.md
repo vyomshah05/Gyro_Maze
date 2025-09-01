@@ -6,4 +6,4 @@ For connectivity, the TTGO board uses its built-in Wi-Fi capability to send timi
 
 <img width="666" height="450" alt="Screenshot 2025-09-01 at 3 56 19 PM" src="https://github.com/user-attachments/assets/c6b0357c-af6f-4fa4-bd57-0c7eeac37028" />
 
-[Demo video]([url](https://drive.google.com/file/d/1uQYdaZd8vMwwliB8UuHKXI5Kv4btVXlp/view?usp=sharing))
+[Demo video](https://drive.google.com/file/d/1uQYdaZd8vMwwliB8UuHKXI5Kv4btVXlp/view?usp=sharing)
